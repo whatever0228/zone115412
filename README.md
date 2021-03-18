@@ -1,2 +1,2 @@
-# Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+# Modify_SR-GNN
+考虑了群体依赖（边），GRU做了小调整，最后加上了self-attention和SR-IEM模型的方法
